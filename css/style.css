@@ -28,3 +28,7 @@ header a {
     border: 5px #ccc solid;
     padding: 1px;
 }
+h2 {
+    color: rgb(111,127,122);
+    font-size: 2em;
+}
